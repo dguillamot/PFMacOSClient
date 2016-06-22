@@ -1,0 +1,6 @@
+framework module Pods_Peertalk_Example {
+  umbrella header "Pods-Peertalk Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
